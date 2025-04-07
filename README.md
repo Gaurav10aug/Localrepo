@@ -1,2 +1,2 @@
-# This is secondline in my first repository
-# This change only appears in Feature1 branchh
+#This Change is first line in my local repository
+# But this also displays on feature1 only
